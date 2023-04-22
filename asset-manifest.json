@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Woision-text-editor/static/css/main.866ef1a4.css",
+    "main.js": "/Woision-text-editor/static/js/main.1650f2f4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Woision-text-editor/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Woision-text-editor/index.html",
+    "main.866ef1a4.css.map": "/Woision-text-editor/static/css/main.866ef1a4.css.map",
+    "main.1650f2f4.js.map": "/Woision-text-editor/static/js/main.1650f2f4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Woision-text-editor/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.866ef1a4.css",
+    "static/js/main.1650f2f4.js"
+  ]
+}
